@@ -1,0 +1,27 @@
+.quotebody {
+  border: 2px solid;
+  border-radius: 10px;
+  background-color: rgb(221, 221, 221);
+  padding: 10px 10px;
+}
+p {
+  text-align: center;
+  font-size: 1.6rem;
+  color: hsl(0, 92%, 49%);
+}
+button {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  background-color: rgb(223, 29, 29);
+  border-radius: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+button:hover{
+    background-color: rgb(255, 35, 35) ;
+}
